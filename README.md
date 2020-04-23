@@ -3,4 +3,4 @@ This repository contains a few sample projects that show how to configure source
 Configuration depends on the build tool:
 
 * See the [`maven` branch](https://github.com/sonarsource/sonarcloud-github-actions-samples/tree/maven) for Maven projects.
-* See the [`generic` branch](https://github.com/simonbrandhof/sonarcloud-github-actions-samples/tree/generic) for projects that use other build tools (PHP, Python, COBOL, PL/SQL, ...). 
+* See the [`generic` branch](https://github.com/sonarsource/sonarcloud-github-actions-samples/tree/generic) for projects that use other build tools (PHP, Python, COBOL, PL/SQL, ...). 
