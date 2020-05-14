@@ -27,3 +27,7 @@ Desktop.ini
 
 # ---- SonarCloud
 .sonar/
+
+# ---- Gradle
+.gradle/
+build/
