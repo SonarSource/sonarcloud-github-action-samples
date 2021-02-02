@@ -18,8 +18,8 @@
     The two following properties are displayed on your project
     at https://sonarcloud.io
      -->
-    <sonar.organization>sonarsource</sonar.organization>
-    <sonar.projectKey>SonarSource_sonarcloud-github-action-samples</sonar.projectKey>
+    <sonar.organization>onlyfullstack</sonar.organization>
+    <sonar.projectKey>onlyfullstack_sonarcloud-github-action-samples</sonar.projectKey>
   </properties>
 
   <dependencies>
