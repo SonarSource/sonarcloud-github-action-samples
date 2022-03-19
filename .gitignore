@@ -27,3 +27,7 @@ Desktop.ini
 
 # ---- SonarCloud
 .sonar/
+
+# ---- Maven
+target/
+dependency-reduced-pom.xml
