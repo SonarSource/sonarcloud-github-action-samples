@@ -3,3 +3,9 @@ public class HelloWorld {
     return "hello world";
   }
 }
+
+public class Test {
+  public String say() {
+    return "Testing";
+  })
+}

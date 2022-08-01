@@ -8,3 +8,10 @@ class HelloWorldTests {
     assertEquals("hello world", new HelloWorld().say());
   }
 }
+
+class Testing {
+  @Test
+  void sayTest() {
+    assertEquals("Testing", new Test().say());
+  }
+}
