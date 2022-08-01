@@ -6,8 +6,8 @@
   <groupId>io.sonarcloud.githubactions.sample</groupId>
   <artifactId>maven-sample</artifactId>
   <version>0.1-SNAPSHOT</version>
-  <name>SonarCloud GitHub Actions Samples - Maven</name>
-
+  <name>SonarCloud GitHub Actions Samples - Maven</name>  
+         
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>11</maven.compiler.source>
@@ -18,7 +18,7 @@
     The two following properties are displayed on your project
     at https://sonarcloud.io
      -->
-    <sonar.organization>sonarsource</sonar.organization>
+    <sonar.organization>yuuji94</sonar.organization>
     <sonar.projectKey>SonarSource_sonarcloud-github-action-samples</sonar.projectKey>
   </properties>
 
